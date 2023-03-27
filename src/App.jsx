@@ -2,8 +2,8 @@ import CodeEditor from './components/CodeEditor';
 
 export default function App() {
   return (
-    <dev>
+    <div>
       <CodeEditor />
-    </dev>
+    </div>
   );
 }
